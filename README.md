@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Johnson
-- 👀 I’m interested in ... Mining
-- 🌱 I’m currently learning ... data science
+- 👀 I’m interested in ... Data Mining
+- 🌱 I’m currently learning ... Data Science
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... wa.me/8248428900
 
